@@ -3,6 +3,10 @@
 import os
 import imp
 import json
+
+from flask import current_app
+
+
 class AutoLoad():
     """
     自动加载模块
@@ -11,6 +15,7 @@ class AutoLoad():
         #指定项目自动加载模块目录
         self.modules_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "modules"))
         print self.modules_dir
+        current_app.logger.debug("自动加载模块的目录为：{}".format(self.modules_dir))
         self.module_name = ""  #模块名字
         self.func = ""         #函数名字
         self.modules = None    #已加载的模块
@@ -23,6 +28,7 @@ class AutoLoad():
 
         Returns: True/False
         """
+        current_app.logger.debug("验证模块是否可用，模块名为：{}".format(module_name))
         self.module_name  = module_name
         return self._load_module()
 
@@ -34,7 +40,9 @@ class AutoLoad():
         Returns: True/False
         """
         self.func = func
+        current_app.logger.debug("验证模块{}，是否存在{}这个属性".format(self.module_name,self.func))
         if self.module is None:
+            current_app.logger.warning("函数验证失败，没有验证模块")
             return False
         return hasattr(self.module, self.func)
 
@@ -44,6 +52,7 @@ class AutoLoad():
         Returns: func
 
         """
+        current_app.logger.debug("获取可以执行的函数")
         if hasattr(self.module, self.func):
             return getattr(self.module, self.func, None)
         return None
@@ -53,6 +62,7 @@ class AutoLoad():
         动态加载模块
         ：return:
         """
+        current_app.logger.debug("加载 {} 模块".format(self.module_name))
         ret = False
         #列出模块目录下的所有文件
         for file_name in os.listdir(self.modules_dir):
@@ -70,8 +80,9 @@ class AutoLoad():
                 try:
                     self.module = imp.load_module(module_name, fp, pathname, desc)
                     ret = True
+                    current_app.logger.debug("加载 {} 模块成功".format(self.module_name))
                 except Exception, e:
-                    pass
+                    current_app.logger.debug("加载 {} 模块失败".format(self.module_name))
                 finally:
                     fp.close()
                     return ret
@@ -93,10 +104,12 @@ class JsonRpc():
     def execute(self):
         if self.jsonData.get("id", None) is None:
             self.jsonError(-1, 100, '没有id')
+            current_app.logger.error("请求的参数没有id，或者id为None")
             return self._response
 
         if self.validata():
             #验证通过
+            current_app.logger.debug("验证json格式成功")
             params = self.jsonData['params']
             auth = self.jsonData["auth"]
             module, func = self.jsonData['method'].split(".")
@@ -112,6 +125,7 @@ class JsonRpc():
         """
         if self.jsonData is None:
             self.jsonError(-1, 101, "没有指定json数据")
+            current_app.logger.warning("没有传json数据")
             return  False
         #验证是否有指定的属性，一共有5个， jsonrpc,method, id auth, params
         #jsonrpc的值2.0
@@ -123,6 +137,7 @@ class JsonRpc():
         for i in fom:
             if i not in self.jsonData.keys():
                 self.jsonError(-1, 102 , '没有 %s 属性'% i)
+                current_app.logger.warning("请求的参数中， {} 没有传".format(i))
                 return False
 
         jsondata = self.jsonData
@@ -154,6 +169,7 @@ class JsonRpc():
             errmsg:
         Returns:
         """
+        current_app.logger.debug("处理错误信息")
         self._response = {
             "jsonrpc": self.VERSION,
             "id": id,
@@ -168,10 +184,10 @@ class JsonRpc():
             func:
         Returns:  True/False
         """
-        b_list = ["user.login", "api.info", "reboot.test", "reboot.error"]
+        b_list = ["user.login", "api.info", "reboot.test", "idc.create"]
         if "{}.{}".format(module, func) in b_list:
             return False
-        return True
+        return False
     def callMethod(self, module, func, params, auth):
         """
         执行apy调用
@@ -191,16 +207,19 @@ class JsonRpc():
         at = AutoLoad()
 
         if not at.isValidModule(module_name):
+            current_app.logger.warning("模块导入失败".format(module_name))
             response.errorCode = 120
             response.errorMessage = "模块不存在"
             return response
         if not at.isValidMethod(func_name):
+            current_app.logger.warning("函数验证失败".format(func_name))
             response.errorCode = 121
             response.errorMessage = "{} 模块下没有{}这个方法".format(module_name, func_name)
             return response
         if self.requireAuthentication(module_name, func_name):
             #需要登录/需要验证
             if auth is None:
+                current_app.logger.warning("{},{} 改操作需要提供token".format(module_name,func_name))
                 response.errorCode = 122
                 response.errorMessage = "该操作需要提供auth"
                 return response
@@ -209,6 +228,7 @@ class JsonRpc():
             if callable(called):
                 response.data = called(**params)
             else:
+                current_app.logger.warning("{},{} 不能被调用".format(module_name,func_name))
                 response.errorCode = 123
                 response.errorMessage = "{}下的{}不能执行"
         except Exception, e:
@@ -225,6 +245,7 @@ class JsonRpc():
 
         Returns:
         """
+        current_app.logger.debug("处理执行后的结果")
         if response.errorCode != 0:
             self.jsonError(self.jsonData['id'],
                           response.errorCode,
