@@ -839,3 +839,1368 @@
 2016-05-22 13:03:24,600 - app - __init__.py- DEBUG - 加载 idc 模块成功
 2016-05-22 13:03:24,608 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
 2016-05-22 13:03:24,611 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:02:24,286 - app - views.py- DEBUG - 首页访问日志
+2016-05-29 07:02:29,277 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:02:29,279 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:02:29,279 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:02:29,294 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:02:29,295 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:02:29,295 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:02:45,617 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:02:45,618 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:02:45,618 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:02:45,627 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:02:45,629 - app - __init__.py- DEBUG - 验证模块idc，是否存在update这个属性
+2016-05-29 07:02:45,631 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:02:50,008 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:02:50,009 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:02:50,011 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:02:50,024 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:02:50,026 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:02:50,026 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:02:51,805 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:02:51,806 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:02:51,806 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:02:51,828 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:02:51,829 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:02:51,830 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:04:17,179 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:04:17,180 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:04:17,182 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:04:17,201 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:04:17,202 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:04:17,202 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:04:23,648 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:04:23,648 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:04:23,652 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:04:23,669 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:04:23,669 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:04:23,670 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:05:13,550 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:05:13,551 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:05:13,552 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:05:13,563 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:05:13,565 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:05:13,566 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:05:13,599 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:05:13,600 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:05:13,601 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:05:13,613 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:05:13,616 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:05:13,617 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:05:20,699 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:05:20,700 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:05:20,700 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:05:20,712 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:05:20,713 - app - __init__.py- DEBUG - 验证模块idc，是否存在update这个属性
+2016-05-29 07:05:20,714 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:05:26,774 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:05:26,776 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:05:26,782 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:05:26,793 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:05:26,794 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:05:26,795 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:07:20,849 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:07:20,851 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:07:20,851 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:07:20,866 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:07:20,866 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:07:20,867 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:07:41,451 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:07:41,452 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:07:41,454 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:07:41,466 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:07:41,466 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:07:41,467 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:07:45,283 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:07:45,283 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:07:45,284 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:07:45,302 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:07:45,304 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:07:45,305 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:07:50,009 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:07:50,010 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:07:50,010 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:07:50,022 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:07:50,023 - app - __init__.py- DEBUG - 验证模块idc，是否存在update这个属性
+2016-05-29 07:07:50,024 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:08:43,502 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:08:43,503 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:08:43,505 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:08:43,517 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:08:43,519 - app - __init__.py- DEBUG - 验证模块idc，是否存在create这个属性
+2016-05-29 07:08:43,519 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:08:44,654 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:08:44,654 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:08:44,655 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:08:44,663 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:08:44,665 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:08:44,666 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:08:48,609 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:08:48,610 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:08:48,611 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:08:48,626 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:08:48,627 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:08:48,628 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:09:27,421 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:09:27,426 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:09:27,434 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:09:27,450 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:09:27,451 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:09:27,452 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:11:53,824 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:11:53,826 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:11:53,826 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:11:53,836 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:11:53,841 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:11:53,842 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:12:44,572 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:12:44,575 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:12:44,584 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:12:44,600 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:12:44,600 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:12:44,600 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:18:10,206 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:18:10,208 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:18:10,208 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:18:10,224 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:18:10,225 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:18:10,226 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:20:32,967 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:20:32,968 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:20:32,969 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:20:32,982 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:20:32,983 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:20:32,983 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:20:43,646 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:20:43,648 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:20:43,650 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:20:43,667 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:20:43,668 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:20:43,669 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:21:05,929 - app - views.py- DEBUG - 首页访问日志
+2016-05-29 07:21:10,962 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:21:10,962 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:21:10,963 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:21:10,972 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:21:10,974 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:21:10,975 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 07:51:22,877 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 07:51:22,878 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 07:51:22,878 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 07:51:22,884 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 07:51:22,885 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 07:51:22,885 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 08:10:20,101 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 08:10:20,102 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：Manufacturers
+2016-05-29 08:10:20,102 - app - __init__.py- DEBUG - 加载 Manufacturers 模块
+2016-05-29 08:10:20,105 - app - __init__.py- WARNING - Manufacturers 模块不可用
+2016-05-29 08:10:35,751 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 08:10:35,755 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：Manufacturers
+2016-05-29 08:10:35,756 - app - __init__.py- DEBUG - 加载 Manufacturers 模块
+2016-05-29 08:10:35,761 - app - __init__.py- WARNING - Manufacturers 模块不可用
+2016-05-29 08:25:11,273 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 08:25:11,274 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 08:25:11,275 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 08:25:11,280 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 08:26:25,737 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 08:26:25,738 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 08:26:25,739 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 08:26:25,741 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 08:28:31,321 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 08:28:31,322 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 08:28:31,323 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 08:28:31,329 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 08:31:30,856 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 08:31:30,857 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 08:31:30,857 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 08:31:30,860 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 08:36:42,759 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 08:36:42,761 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 08:36:42,763 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 08:36:42,766 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 08:37:17,519 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 08:37:17,520 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 08:37:17,520 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 08:37:17,523 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 08:39:01,831 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 08:39:01,832 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 08:39:01,832 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 08:39:01,835 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 08:40:09,971 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 08:40:09,972 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 08:40:09,973 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 08:40:09,977 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 08:41:35,647 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 08:41:35,647 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 08:41:35,648 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 08:41:35,651 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 08:47:33,294 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 08:47:33,295 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 08:47:33,296 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 08:47:33,300 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 09:11:43,561 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:11:43,563 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:11:43,564 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:11:43,568 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 09:12:27,415 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:12:27,416 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:12:27,418 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:12:27,421 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 09:13:17,777 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:13:17,777 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:13:17,778 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:13:17,781 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 09:15:01,519 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:15:01,521 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:15:01,523 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:15:01,529 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 09:16:21,397 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:16:21,398 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:16:21,398 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:16:21,401 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 09:17:01,022 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:17:01,024 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:17:01,024 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:17:01,028 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 09:17:40,308 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:17:40,309 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:17:40,312 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:17:40,315 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 09:23:04,783 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:23:04,784 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:23:04,784 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:23:04,788 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 09:24:13,076 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:24:13,077 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:24:13,078 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:24:13,080 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 09:25:28,067 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:25:28,068 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:25:28,068 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:25:28,082 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 09:26:29,123 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:26:29,124 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:26:29,126 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:26:29,133 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 09:28:10,555 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:28:10,555 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 09:28:10,555 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 09:28:10,566 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 09:28:10,567 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 09:28:10,568 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 09:28:15,122 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:28:15,122 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 09:28:15,123 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 09:28:15,142 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 09:28:15,143 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 09:28:15,144 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 09:30:22,096 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:30:22,097 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:30:22,098 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:30:22,102 - app - __init__.py- WARNING - manufacturers 模块不可用
+2016-05-29 09:31:51,912 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:31:51,913 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:31:51,914 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:31:51,932 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 09:31:51,932 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在create这个属性
+2016-05-29 09:31:51,934 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 09:32:16,270 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:32:16,271 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:32:16,273 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:32:16,287 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 09:32:16,288 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在create这个属性
+2016-05-29 09:32:16,290 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 09:44:18,155 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:44:18,156 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:44:18,157 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:44:18,174 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 09:44:18,174 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 09:44:18,174 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 09:44:18,214 - app - __init__.py- WARNING - 调用模块执行中出错：Entity '<class 'app.models.Manufacturers'>' has no property 'status'
+2016-05-29 09:46:44,309 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:46:44,310 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:46:44,311 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:46:44,322 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 09:46:44,324 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 09:46:44,324 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 09:46:44,362 - app - __init__.py- WARNING - 调用模块执行中出错：Entity '<class 'app.models.Manufacturers'>' has no property 'status'
+2016-05-29 09:48:27,652 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 09:48:27,654 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 09:48:27,654 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 09:48:27,667 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 09:48:27,667 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 09:48:27,668 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:16:15,259 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:16:15,259 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 10:16:15,261 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 10:16:15,320 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 10:16:15,321 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 10:16:15,322 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:16:16,561 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:16:16,561 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 10:16:16,563 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 10:16:16,572 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 10:16:16,572 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 10:16:16,573 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:16:21,382 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:16:21,383 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 10:16:21,384 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 10:16:21,393 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 10:16:21,393 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 10:16:21,394 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:30:16,608 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:30:16,609 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 10:30:16,610 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 10:30:16,619 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 10:30:16,620 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 10:30:16,621 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:30:28,429 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:30:28,434 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：servertype
+2016-05-29 10:30:28,437 - app - __init__.py- DEBUG - 加载 servertype 模块
+2016-05-29 10:30:28,442 - app - __init__.py- WARNING - servertype 模块不可用
+2016-05-29 10:31:04,387 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:31:04,388 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：servertype
+2016-05-29 10:31:04,388 - app - __init__.py- DEBUG - 加载 servertype 模块
+2016-05-29 10:31:04,393 - app - __init__.py- WARNING - servertype 模块不可用
+2016-05-29 10:35:23,664 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:35:23,665 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 10:35:23,665 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 10:35:23,684 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 10:35:23,686 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 10:35:23,686 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:35:27,461 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:35:27,462 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 10:35:27,462 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 10:35:27,477 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 10:35:27,480 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 10:35:27,484 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:35:34,201 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:35:34,202 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：servertype
+2016-05-29 10:35:34,202 - app - __init__.py- DEBUG - 加载 servertype 模块
+2016-05-29 10:35:34,220 - app - __init__.py- DEBUG - 加载 servertype 模块失败
+2016-05-29 10:35:34,221 - app - __init__.py- WARNING - servertype 模块不可用
+2016-05-29 10:36:10,386 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:36:10,387 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 10:36:10,390 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 10:36:10,402 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 10:36:10,405 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 10:36:10,406 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:36:17,872 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:36:17,873 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：servertype
+2016-05-29 10:36:17,873 - app - __init__.py- DEBUG - 加载 servertype 模块
+2016-05-29 10:36:17,886 - app - __init__.py- DEBUG - 加载 servertype 模块失败
+2016-05-29 10:36:17,888 - app - __init__.py- WARNING - servertype 模块不可用
+2016-05-29 10:38:54,182 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:38:54,182 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 10:38:54,183 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 10:38:54,197 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 10:38:54,200 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 10:38:54,202 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:38:56,746 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:38:56,746 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 10:38:56,752 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 10:38:56,770 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 10:38:56,772 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 10:38:56,774 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:39:01,568 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:39:01,569 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：servertype
+2016-05-29 10:39:01,571 - app - __init__.py- DEBUG - 加载 servertype 模块
+2016-05-29 10:39:01,598 - app - __init__.py- DEBUG - 加载 servertype 模块失败
+2016-05-29 10:39:01,599 - app - __init__.py- WARNING - servertype 模块不可用
+2016-05-29 10:40:47,642 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:40:47,643 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 10:40:47,644 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 10:40:47,654 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 10:40:47,655 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 10:40:47,660 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:40:54,848 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:40:54,849 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：servertype
+2016-05-29 10:40:54,850 - app - __init__.py- DEBUG - 加载 servertype 模块
+2016-05-29 10:40:54,871 - app - __init__.py- DEBUG - 加载 servertype 模块成功
+2016-05-29 10:40:54,872 - app - __init__.py- DEBUG - 验证模块servertype，是否存在create这个属性
+2016-05-29 10:40:54,873 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:40:54,877 - app - __init__.py- WARNING - 调用模块执行中出错：global name 'Servertype' is not defined
+2016-05-29 10:42:20,498 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:42:20,498 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 10:42:20,499 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 10:42:20,511 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 10:42:20,512 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 10:42:20,513 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:42:21,990 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:42:21,993 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 10:42:21,993 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 10:42:22,013 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 10:42:22,015 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 10:42:22,017 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:42:30,787 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:42:30,787 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：servertype
+2016-05-29 10:42:30,788 - app - __init__.py- DEBUG - 加载 servertype 模块
+2016-05-29 10:42:30,816 - app - __init__.py- DEBUG - 加载 servertype 模块成功
+2016-05-29 10:42:30,817 - app - __init__.py- DEBUG - 验证模块servertype，是否存在create这个属性
+2016-05-29 10:42:30,817 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:42:37,683 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:42:37,684 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 10:42:37,685 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 10:42:37,700 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 10:42:37,703 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 10:42:37,705 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:51:21,099 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:51:21,100 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 10:51:21,100 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 10:51:21,116 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 10:51:21,116 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 10:51:21,117 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:51:29,576 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:51:29,584 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 10:51:29,611 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 10:51:29,630 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 10:51:29,633 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 10:51:29,637 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:51:39,125 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:51:39,127 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：servertype
+2016-05-29 10:51:39,128 - app - __init__.py- DEBUG - 加载 servertype 模块
+2016-05-29 10:51:39,137 - app - __init__.py- DEBUG - 加载 servertype 模块成功
+2016-05-29 10:51:39,142 - app - __init__.py- DEBUG - 验证模块servertype，是否存在create这个属性
+2016-05-29 10:51:39,143 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 10:55:45,394 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 10:55:45,396 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 10:55:45,398 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 10:55:45,413 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 10:55:45,416 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 10:55:45,416 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:07:31,249 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:07:31,249 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:07:31,250 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:07:31,255 - app - __init__.py- WARNING - product 模块不可用
+2016-05-29 11:10:51,823 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:10:51,824 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:10:51,825 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:10:51,840 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:10:51,841 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 11:10:51,842 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:17:41,313 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:17:41,314 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:17:41,314 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:17:41,326 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:17:41,327 - app - __init__.py- DEBUG - 验证模块product，是否存在create这个属性
+2016-05-29 11:17:41,328 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:17:42,607 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:17:42,608 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:17:42,608 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:17:42,618 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:17:42,620 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 11:17:42,622 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:17:47,641 - app - views.py- DEBUG - 首页访问日志
+2016-05-29 11:17:51,229 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:17:51,229 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:17:51,230 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:17:51,242 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:17:51,243 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:17:51,244 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:18:13,958 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:18:13,959 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:18:13,960 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:18:13,974 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:18:13,975 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:18:13,976 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:18:44,349 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:18:44,350 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:18:44,357 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:18:44,373 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:18:44,375 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:18:44,378 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:18:52,938 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:18:52,941 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：servertype
+2016-05-29 11:18:52,941 - app - __init__.py- DEBUG - 加载 servertype 模块
+2016-05-29 11:18:52,950 - app - __init__.py- DEBUG - 加载 servertype 模块成功
+2016-05-29 11:18:52,950 - app - __init__.py- DEBUG - 验证模块servertype，是否存在create这个属性
+2016-05-29 11:18:52,953 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:18:58,651 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:18:58,652 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:18:58,652 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:18:58,662 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:18:58,664 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:18:58,664 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:19:09,694 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:19:09,694 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:19:09,695 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:19:09,702 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:19:09,704 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 11:19:09,704 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:20:37,042 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:20:37,044 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:20:37,044 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:20:37,055 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:20:37,056 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:20:37,057 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:22:29,229 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:22:29,230 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:22:29,230 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:22:29,253 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:22:29,256 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:22:29,260 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:23:52,286 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:23:52,287 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:23:52,287 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:23:52,298 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:23:52,299 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:23:52,299 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:23:58,324 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:23:58,327 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:23:58,328 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:23:58,342 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:23:58,345 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:23:58,348 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:24:54,939 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:24:54,939 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:24:54,943 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:24:54,956 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:24:54,957 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:24:54,958 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:25:51,962 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:25:51,962 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:25:51,963 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:25:51,979 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:25:51,980 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:25:51,980 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:27:29,986 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:27:29,986 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:27:29,988 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:27:29,997 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:27:29,998 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:27:29,999 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:27:30,088 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:27:30,089 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:27:30,090 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:27:30,097 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:27:30,098 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 11:27:30,099 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:29:02,981 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:29:02,982 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:29:02,983 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:29:02,999 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:29:03,003 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 11:29:03,003 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:29:23,880 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:29:23,881 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:29:23,881 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:29:23,899 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:29:23,906 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 11:29:23,908 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:29:46,408 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:29:46,412 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:29:46,413 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:29:46,431 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:29:46,438 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:29:46,439 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:29:46,540 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:29:46,540 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:29:46,541 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:29:46,552 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:29:46,553 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 11:29:46,554 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:30:20,943 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:30:20,943 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:30:20,944 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:30:20,952 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:30:20,954 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:30:20,955 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:30:21,036 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:30:21,037 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:30:21,038 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:30:21,049 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:30:21,050 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 11:30:21,051 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:35:48,367 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:35:48,368 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:35:48,369 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:35:48,379 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:35:48,380 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:35:48,381 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:35:48,460 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:35:48,461 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:35:48,461 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:35:48,468 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:35:48,469 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 11:35:48,470 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:35:48,481 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:35:48,482 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 11:35:48,483 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 11:35:48,486 - app - __init__.py- WARNING - status 模块不可用
+2016-05-29 11:36:04,505 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:36:04,506 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:36:04,507 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:36:04,514 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:36:04,523 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:36:04,524 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:36:04,629 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:36:04,631 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:36:04,632 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:36:04,641 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:36:04,642 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 11:36:04,643 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:36:04,656 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:36:04,657 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 11:36:04,658 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 11:36:04,660 - app - __init__.py- WARNING - status 模块不可用
+2016-05-29 11:38:05,681 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:38:05,681 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:38:05,681 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:38:05,694 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:38:05,694 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:38:05,695 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:38:05,702 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:38:05,703 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:38:05,703 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:38:05,710 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:38:05,710 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 11:38:05,710 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:38:05,720 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:38:05,721 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 11:38:05,722 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 11:38:05,724 - app - __init__.py- WARNING - status 模块不可用
+2016-05-29 11:41:36,664 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:41:36,665 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:41:36,666 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:41:36,678 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:41:36,679 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:41:36,680 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:41:36,760 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:41:36,762 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:41:36,763 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:41:36,775 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:41:36,776 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 11:41:36,777 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:41:36,792 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:41:36,793 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 11:41:36,793 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 11:41:36,795 - app - __init__.py- WARNING - status 模块不可用
+2016-05-29 11:44:11,248 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:44:11,249 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:44:11,250 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:44:11,260 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:44:11,261 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:44:11,261 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:44:11,268 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:44:11,268 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:44:11,270 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:44:11,277 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:44:11,277 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 11:44:11,278 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:44:11,286 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:44:11,287 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 11:44:11,288 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 11:44:11,299 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 11:44:11,300 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 11:44:11,300 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:44:11,302 - app - __init__.py- WARNING - 调用模块执行中出错：Entity '<class 'app.models.Status'>' has no property 'status'
+2016-05-29 11:57:38,579 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:57:38,580 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:57:38,580 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:57:38,590 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:57:38,591 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:57:38,592 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:57:38,602 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:57:38,603 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:57:38,604 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:57:38,616 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:57:38,617 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 11:57:38,618 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:57:38,628 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:57:38,632 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 11:57:38,632 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 11:57:38,639 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 11:57:38,640 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 11:57:38,641 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:57:38,643 - app - __init__.py- WARNING - 调用模块执行中出错：Entity '<class 'app.models.Status'>' has no property 'status'
+2016-05-29 11:58:59,165 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:58:59,168 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:58:59,170 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:58:59,192 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:58:59,194 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:58:59,195 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:58:59,362 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:58:59,367 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:58:59,370 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:58:59,377 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:58:59,377 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 11:58:59,378 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:58:59,393 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:58:59,394 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 11:58:59,395 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 11:58:59,409 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 11:58:59,410 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 11:58:59,410 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:58:59,413 - app - __init__.py- WARNING - 调用模块执行中出错：Entity '<class 'app.models.Status'>' has no property 'status'
+2016-05-29 11:59:46,145 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:59:46,146 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 11:59:46,147 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 11:59:46,158 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 11:59:46,159 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 11:59:46,160 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 11:59:46,249 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 11:59:46,250 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 11:59:46,250 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 11:59:46,256 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 11:59:46,256 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 11:59:46,257 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:00:29,623 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:00:29,624 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:00:29,625 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:00:29,638 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:00:29,641 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:00:29,642 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:00:29,654 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:00:29,655 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:00:29,655 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:00:29,664 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:00:29,666 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:00:29,666 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:03:11,987 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:03:11,989 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:03:11,989 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:03:12,005 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:03:12,006 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:03:12,007 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:03:12,016 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:03:12,017 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:03:12,017 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:03:12,025 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:03:12,026 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:03:12,026 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:05:39,326 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:05:39,328 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:05:39,329 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:05:39,344 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:05:39,345 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:05:39,346 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:05:39,430 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:05:39,430 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:05:39,433 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:05:39,441 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:05:39,442 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:05:39,443 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:05:39,468 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:05:39,469 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:05:39,473 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:05:39,485 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:05:39,489 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:05:39,490 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:05:39,493 - app - __init__.py- WARNING - 调用模块执行中出错：Entity '<class 'app.models.Status'>' has no property 'status'
+2016-05-29 12:11:55,960 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:11:55,961 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:11:55,961 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:11:55,972 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:11:55,973 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:11:55,974 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:11:56,041 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:11:56,042 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:11:56,042 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:11:56,056 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:11:56,058 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:11:56,058 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:11:56,072 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:11:56,073 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:11:56,073 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:11:56,095 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:11:56,098 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:11:56,099 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:12:22,697 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:12:22,698 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:12:22,699 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:12:22,710 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:12:22,711 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:12:22,713 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:12:22,726 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:12:22,727 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:12:22,728 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:12:22,738 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:12:22,738 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:12:22,739 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:12:22,751 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:12:22,751 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:12:22,753 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:12:22,760 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:12:22,761 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:12:22,762 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:12:31,893 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:12:31,909 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:12:31,910 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:12:31,919 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:12:31,921 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:12:31,923 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:12:53,954 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:12:53,954 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：servertype
+2016-05-29 12:12:53,955 - app - __init__.py- DEBUG - 加载 servertype 模块
+2016-05-29 12:12:53,965 - app - __init__.py- DEBUG - 加载 servertype 模块成功
+2016-05-29 12:12:53,966 - app - __init__.py- DEBUG - 验证模块servertype，是否存在create这个属性
+2016-05-29 12:12:53,967 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:12:58,266 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:12:58,267 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:12:58,268 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:12:58,282 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:12:58,282 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:12:58,283 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:12:58,291 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:12:58,293 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:12:58,295 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:12:58,303 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:12:58,303 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:12:58,304 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:12:58,312 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:12:58,313 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:12:58,314 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:12:58,321 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:12:58,322 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:12:58,322 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:13:34,354 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:13:34,355 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:13:34,356 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:13:34,365 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:13:34,367 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:13:34,370 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:13:34,379 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:13:34,380 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:13:34,381 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:13:34,390 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:13:34,390 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:13:34,391 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:13:34,401 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:13:34,402 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:13:34,402 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:13:34,409 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:13:34,410 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:13:34,411 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:14:43,369 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:14:43,370 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:14:43,371 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:14:43,383 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:14:43,383 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:14:43,384 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:14:43,454 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:14:43,455 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:14:43,456 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:14:43,466 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:14:43,467 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:14:43,468 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:14:43,483 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:14:43,484 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:14:43,484 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:14:43,493 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:14:43,494 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:14:43,495 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:17:04,698 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:17:04,699 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:17:04,700 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:17:04,710 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:17:04,710 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:17:04,712 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:17:04,785 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:17:04,785 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:17:04,787 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:17:04,801 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:17:04,802 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:17:04,803 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:17:04,818 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:17:04,819 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:17:04,819 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:17:04,826 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:17:04,826 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:17:04,831 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:17:07,292 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:17:07,292 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：servertype
+2016-05-29 12:17:07,292 - app - __init__.py- DEBUG - 加载 servertype 模块
+2016-05-29 12:17:07,303 - app - __init__.py- DEBUG - 加载 servertype 模块成功
+2016-05-29 12:17:07,306 - app - __init__.py- DEBUG - 验证模块servertype，是否存在get这个属性
+2016-05-29 12:17:07,306 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:17:52,094 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:17:52,094 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:17:52,095 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:17:52,105 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:17:52,107 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:17:52,109 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:17:52,179 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:17:52,181 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:17:52,181 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:17:52,191 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:17:52,191 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:17:52,192 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:17:52,204 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:17:52,205 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:17:52,205 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:17:52,215 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:17:52,216 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:17:52,216 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:17:56,682 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:17:56,683 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：servertype
+2016-05-29 12:17:56,684 - app - __init__.py- DEBUG - 加载 servertype 模块
+2016-05-29 12:17:56,694 - app - __init__.py- DEBUG - 加载 servertype 模块成功
+2016-05-29 12:17:56,696 - app - __init__.py- DEBUG - 验证模块servertype，是否存在get这个属性
+2016-05-29 12:17:56,698 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:18:13,460 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:18:13,460 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：servertype
+2016-05-29 12:18:13,462 - app - __init__.py- DEBUG - 加载 servertype 模块
+2016-05-29 12:18:13,478 - app - __init__.py- DEBUG - 加载 servertype 模块成功
+2016-05-29 12:18:13,480 - app - __init__.py- DEBUG - 验证模块servertype，是否存在get这个属性
+2016-05-29 12:18:13,480 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:20:17,120 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:20:17,121 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:20:17,123 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:20:17,137 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:20:17,140 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:20:17,147 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:20:59,860 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:20:59,863 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:20:59,864 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:20:59,880 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:20:59,881 - app - __init__.py- DEBUG - 验证模块product，是否存在create这个属性
+2016-05-29 12:20:59,884 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:21:01,243 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:21:01,244 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:21:01,245 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:21:01,260 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:21:01,262 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:21:01,263 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:21:05,460 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:21:05,464 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:21:05,466 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:21:05,476 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:21:05,480 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:21:05,482 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:21:05,493 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:21:05,495 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:21:05,496 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:21:05,502 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:21:05,503 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:21:05,504 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:21:05,517 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:21:05,518 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:21:05,519 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:21:05,527 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:21:05,529 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:21:05,529 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:22:04,656 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:22:04,656 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:22:04,657 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:22:04,676 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:22:04,678 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:22:04,680 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:22:04,772 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:22:04,773 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:22:04,773 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:22:04,783 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:22:04,785 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:22:04,786 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:22:04,800 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:22:04,801 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:22:04,801 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:22:04,807 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:22:04,808 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:22:04,809 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:22:06,678 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:22:06,678 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:22:06,679 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:22:06,691 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:22:06,692 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:22:06,693 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:37:49,881 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:37:49,882 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:37:49,883 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:37:49,893 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:37:49,894 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:37:49,895 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:37:49,963 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:37:49,964 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:37:49,964 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:37:49,973 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:37:49,974 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:37:49,976 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:37:49,985 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:37:49,987 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:37:49,987 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:37:49,997 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:37:49,998 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:37:49,999 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:37:50,007 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:37:50,007 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 12:37:50,008 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 12:37:50,022 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 12:37:50,022 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 12:37:50,023 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:37:50,035 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:37:50,036 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：raid
+2016-05-29 12:37:50,036 - app - __init__.py- DEBUG - 加载 raid 模块
+2016-05-29 12:37:50,039 - app - __init__.py- WARNING - raid 模块不可用
+2016-05-29 12:37:50,040 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:37:50,040 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：raidtype
+2016-05-29 12:37:50,042 - app - __init__.py- DEBUG - 加载 raidtype 模块
+2016-05-29 12:37:50,045 - app - __init__.py- WARNING - raidtype 模块不可用
+2016-05-29 12:37:50,046 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:37:50,047 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：managementcardtype
+2016-05-29 12:37:50,047 - app - __init__.py- DEBUG - 加载 managementcardtype 模块
+2016-05-29 12:37:50,050 - app - __init__.py- WARNING - managementcardtype 模块不可用
+2016-05-29 12:37:50,051 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:37:50,052 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：power
+2016-05-29 12:37:50,052 - app - __init__.py- DEBUG - 加载 power 模块
+2016-05-29 12:37:50,055 - app - __init__.py- WARNING - power 模块不可用
+2016-05-29 12:37:50,055 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:37:50,056 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：supplier
+2016-05-29 12:37:50,057 - app - __init__.py- DEBUG - 加载 supplier 模块
+2016-05-29 12:37:50,063 - app - __init__.py- WARNING - supplier 模块不可用
+2016-05-29 12:40:27,267 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:40:27,271 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:40:27,272 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:40:27,284 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:40:27,284 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:40:27,285 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:40:27,389 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:40:27,390 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:40:27,392 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:40:27,400 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:40:27,401 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:40:27,401 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:40:27,418 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:40:27,418 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:40:27,419 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:40:27,428 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:40:27,429 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:40:27,430 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:40:27,439 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:40:27,440 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 12:40:27,443 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 12:40:27,451 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 12:40:27,452 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 12:40:27,453 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:40:27,467 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:40:27,468 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：raids
+2016-05-29 12:40:27,468 - app - __init__.py- DEBUG - 加载 raids 模块
+2016-05-29 12:40:27,484 - app - __init__.py- DEBUG - 加载 raids 模块成功
+2016-05-29 12:40:27,486 - app - __init__.py- DEBUG - 验证模块raids，是否存在get这个属性
+2016-05-29 12:40:27,487 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:40:27,496 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:40:27,497 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：raidtype
+2016-05-29 12:40:27,498 - app - __init__.py- DEBUG - 加载 raidtype 模块
+2016-05-29 12:40:27,500 - app - __init__.py- WARNING - raidtype 模块不可用
+2016-05-29 12:40:27,501 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:40:27,501 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：managementcardtype
+2016-05-29 12:40:27,502 - app - __init__.py- DEBUG - 加载 managementcardtype 模块
+2016-05-29 12:40:27,503 - app - __init__.py- WARNING - managementcardtype 模块不可用
+2016-05-29 12:40:27,504 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:40:27,505 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：power
+2016-05-29 12:40:27,506 - app - __init__.py- DEBUG - 加载 power 模块
+2016-05-29 12:40:27,509 - app - __init__.py- WARNING - power 模块不可用
+2016-05-29 12:40:27,510 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:40:27,513 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：supplier
+2016-05-29 12:40:27,515 - app - __init__.py- DEBUG - 加载 supplier 模块
+2016-05-29 12:40:27,517 - app - __init__.py- WARNING - supplier 模块不可用
+2016-05-29 12:42:11,640 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:42:11,640 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:42:11,642 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:42:11,655 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:42:11,657 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:42:11,657 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:42:11,727 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:42:11,729 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:42:11,729 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:42:11,739 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:42:11,740 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:42:11,741 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:42:11,752 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:42:11,753 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:42:11,754 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:42:11,763 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:42:11,765 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:42:11,767 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:42:11,785 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:42:11,786 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 12:42:11,787 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 12:42:11,798 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 12:42:11,800 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 12:42:11,801 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:42:11,821 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:42:11,821 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：raid
+2016-05-29 12:42:11,821 - app - __init__.py- DEBUG - 加载 raid 模块
+2016-05-29 12:42:11,837 - app - __init__.py- DEBUG - 加载 raid 模块成功
+2016-05-29 12:42:11,838 - app - __init__.py- DEBUG - 验证模块raid，是否存在get这个属性
+2016-05-29 12:42:11,838 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:42:11,852 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:42:11,852 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：raidtype
+2016-05-29 12:42:11,853 - app - __init__.py- DEBUG - 加载 raidtype 模块
+2016-05-29 12:42:11,855 - app - __init__.py- WARNING - raidtype 模块不可用
+2016-05-29 12:42:11,855 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:42:11,855 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：managementcardtype
+2016-05-29 12:42:11,856 - app - __init__.py- DEBUG - 加载 managementcardtype 模块
+2016-05-29 12:42:11,860 - app - __init__.py- WARNING - managementcardtype 模块不可用
+2016-05-29 12:42:11,861 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:42:11,863 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：power
+2016-05-29 12:42:11,863 - app - __init__.py- DEBUG - 加载 power 模块
+2016-05-29 12:42:11,866 - app - __init__.py- WARNING - power 模块不可用
+2016-05-29 12:42:11,867 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:42:11,868 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：supplier
+2016-05-29 12:42:11,868 - app - __init__.py- DEBUG - 加载 supplier 模块
+2016-05-29 12:42:11,870 - app - __init__.py- WARNING - supplier 模块不可用
+2016-05-29 12:43:05,915 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:05,917 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:43:05,918 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:43:05,934 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:43:05,934 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:43:05,935 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:43:06,030 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:06,032 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:43:06,035 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:43:06,046 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:43:06,048 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:43:06,050 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:43:06,066 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:06,067 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:43:06,067 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:43:06,077 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:43:06,077 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:43:06,078 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:43:06,091 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:06,094 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 12:43:06,095 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 12:43:06,102 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 12:43:06,103 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 12:43:06,104 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:43:06,131 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:06,135 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：raid
+2016-05-29 12:43:06,136 - app - __init__.py- DEBUG - 加载 raid 模块
+2016-05-29 12:43:06,150 - app - __init__.py- DEBUG - 加载 raid 模块成功
+2016-05-29 12:43:06,151 - app - __init__.py- DEBUG - 验证模块raid，是否存在get这个属性
+2016-05-29 12:43:06,151 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:43:06,157 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:06,159 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：raidtype
+2016-05-29 12:43:06,159 - app - __init__.py- DEBUG - 加载 raidtype 模块
+2016-05-29 12:43:06,161 - app - __init__.py- WARNING - raidtype 模块不可用
+2016-05-29 12:43:06,162 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:06,163 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：managementcardtype
+2016-05-29 12:43:06,163 - app - __init__.py- DEBUG - 加载 managementcardtype 模块
+2016-05-29 12:43:06,165 - app - __init__.py- WARNING - managementcardtype 模块不可用
+2016-05-29 12:43:06,165 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:06,166 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：power
+2016-05-29 12:43:06,166 - app - __init__.py- DEBUG - 加载 power 模块
+2016-05-29 12:43:06,168 - app - __init__.py- WARNING - power 模块不可用
+2016-05-29 12:43:06,168 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:06,169 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：supplier
+2016-05-29 12:43:06,169 - app - __init__.py- DEBUG - 加载 supplier 模块
+2016-05-29 12:43:06,172 - app - __init__.py- WARNING - supplier 模块不可用
+2016-05-29 12:43:41,401 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:41,402 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 12:43:41,403 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 12:43:41,413 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 12:43:41,414 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 12:43:41,414 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:43:43,409 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:43,409 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 12:43:43,411 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 12:43:43,427 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 12:43:43,428 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 12:43:43,428 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:43:48,167 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:48,169 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 12:43:48,170 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 12:43:48,184 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 12:43:48,185 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 12:43:48,186 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:43:51,792 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:51,793 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:43:51,796 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:43:51,813 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:43:51,813 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:43:51,814 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:43:51,823 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:51,825 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:43:51,827 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:43:51,834 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:43:51,835 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:43:51,836 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:43:51,845 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:51,846 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:43:51,847 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:43:51,854 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:43:51,855 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:43:51,855 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:43:51,866 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:51,867 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 12:43:51,867 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 12:43:51,876 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 12:43:51,877 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 12:43:51,878 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:43:51,887 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:51,888 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：raid
+2016-05-29 12:43:51,888 - app - __init__.py- DEBUG - 加载 raid 模块
+2016-05-29 12:43:51,895 - app - __init__.py- DEBUG - 加载 raid 模块成功
+2016-05-29 12:43:51,896 - app - __init__.py- DEBUG - 验证模块raid，是否存在get这个属性
+2016-05-29 12:43:51,896 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:43:51,904 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:51,904 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：raidtype
+2016-05-29 12:43:51,907 - app - __init__.py- DEBUG - 加载 raidtype 模块
+2016-05-29 12:43:51,910 - app - __init__.py- WARNING - raidtype 模块不可用
+2016-05-29 12:43:51,910 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:51,912 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：managementcardtype
+2016-05-29 12:43:51,913 - app - __init__.py- DEBUG - 加载 managementcardtype 模块
+2016-05-29 12:43:51,916 - app - __init__.py- WARNING - managementcardtype 模块不可用
+2016-05-29 12:43:51,916 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:51,917 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：power
+2016-05-29 12:43:51,917 - app - __init__.py- DEBUG - 加载 power 模块
+2016-05-29 12:43:51,919 - app - __init__.py- WARNING - power 模块不可用
+2016-05-29 12:43:51,920 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:43:51,920 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：supplier
+2016-05-29 12:43:51,920 - app - __init__.py- DEBUG - 加载 supplier 模块
+2016-05-29 12:43:51,923 - app - __init__.py- WARNING - supplier 模块不可用
+2016-05-29 12:44:29,525 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:44:29,526 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 12:44:29,527 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 12:44:29,536 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 12:44:29,536 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 12:44:29,537 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:44:31,745 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:44:31,745 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 12:44:31,746 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 12:44:31,763 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 12:44:31,764 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 12:44:31,765 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:44:51,880 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:44:51,881 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:44:51,883 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:44:51,895 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:44:51,896 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:44:51,896 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:44:51,902 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:44:51,903 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:44:51,904 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:44:51,913 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:44:51,914 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:44:51,915 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:44:51,923 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:44:51,925 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:44:51,927 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:44:51,933 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:44:51,934 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:44:51,934 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:44:51,945 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:44:51,945 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 12:44:51,946 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 12:44:51,952 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 12:44:51,953 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 12:44:51,954 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:44:51,962 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:44:51,963 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：raid
+2016-05-29 12:44:51,963 - app - __init__.py- DEBUG - 加载 raid 模块
+2016-05-29 12:44:51,971 - app - __init__.py- DEBUG - 加载 raid 模块成功
+2016-05-29 12:44:51,972 - app - __init__.py- DEBUG - 验证模块raid，是否存在get这个属性
+2016-05-29 12:44:51,972 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:44:51,980 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:44:51,981 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：raidtype
+2016-05-29 12:44:51,981 - app - __init__.py- DEBUG - 加载 raidtype 模块
+2016-05-29 12:44:51,983 - app - __init__.py- WARNING - raidtype 模块不可用
+2016-05-29 12:44:51,984 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:44:51,985 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：managementcardtype
+2016-05-29 12:44:51,985 - app - __init__.py- DEBUG - 加载 managementcardtype 模块
+2016-05-29 12:44:51,987 - app - __init__.py- WARNING - managementcardtype 模块不可用
+2016-05-29 12:44:51,988 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:44:51,989 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：power
+2016-05-29 12:44:51,989 - app - __init__.py- DEBUG - 加载 power 模块
+2016-05-29 12:44:51,992 - app - __init__.py- WARNING - power 模块不可用
+2016-05-29 12:44:51,993 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:44:51,994 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：supplier
+2016-05-29 12:44:51,994 - app - __init__.py- DEBUG - 加载 supplier 模块
+2016-05-29 12:44:51,996 - app - __init__.py- WARNING - supplier 模块不可用
+2016-05-29 12:45:31,343 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:45:31,344 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:45:31,345 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:45:31,360 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:45:31,361 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:45:31,361 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:45:31,430 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:45:31,431 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:45:31,432 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:45:31,441 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:45:31,444 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:45:31,444 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:45:31,454 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:45:31,455 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:45:31,455 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:45:31,464 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:45:31,465 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:45:31,465 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:45:31,477 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:45:31,478 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 12:45:31,479 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 12:45:31,485 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 12:45:31,486 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 12:45:31,487 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:45:31,498 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:45:31,499 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：raid
+2016-05-29 12:45:31,500 - app - __init__.py- DEBUG - 加载 raid 模块
+2016-05-29 12:45:31,507 - app - __init__.py- DEBUG - 加载 raid 模块成功
+2016-05-29 12:45:31,510 - app - __init__.py- DEBUG - 验证模块raid，是否存在get这个属性
+2016-05-29 12:45:31,511 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:45:38,896 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:45:38,897 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:45:38,899 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:45:38,912 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:45:38,913 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:45:38,913 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:45:38,921 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:45:38,921 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:45:38,922 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:45:38,930 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:45:38,930 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:45:38,931 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:45:38,937 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:45:38,937 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:45:38,938 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:45:38,946 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:45:38,946 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:45:38,947 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:45:38,954 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:45:38,955 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 12:45:38,956 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 12:45:38,964 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 12:45:38,964 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 12:45:38,964 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:45:38,972 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:45:38,973 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：raid
+2016-05-29 12:45:38,974 - app - __init__.py- DEBUG - 加载 raid 模块
+2016-05-29 12:45:38,982 - app - __init__.py- DEBUG - 加载 raid 模块成功
+2016-05-29 12:45:38,983 - app - __init__.py- DEBUG - 验证模块raid，是否存在get这个属性
+2016-05-29 12:45:38,984 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:46:10,761 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:46:10,763 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：manufacturers
+2016-05-29 12:46:10,764 - app - __init__.py- DEBUG - 加载 manufacturers 模块
+2016-05-29 12:46:10,773 - app - __init__.py- DEBUG - 加载 manufacturers 模块成功
+2016-05-29 12:46:10,776 - app - __init__.py- DEBUG - 验证模块manufacturers，是否存在get这个属性
+2016-05-29 12:46:10,777 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:46:10,843 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:46:10,844 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:46:10,844 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:46:10,852 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:46:10,853 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:46:10,854 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:46:10,867 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:46:10,867 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：status
+2016-05-29 12:46:10,868 - app - __init__.py- DEBUG - 加载 status 模块
+2016-05-29 12:46:10,875 - app - __init__.py- DEBUG - 加载 status 模块成功
+2016-05-29 12:46:10,875 - app - __init__.py- DEBUG - 验证模块status，是否存在get这个属性
+2016-05-29 12:46:10,875 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:46:10,885 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:46:10,885 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：idc
+2016-05-29 12:46:10,886 - app - __init__.py- DEBUG - 加载 idc 模块
+2016-05-29 12:46:10,895 - app - __init__.py- DEBUG - 加载 idc 模块成功
+2016-05-29 12:46:10,895 - app - __init__.py- DEBUG - 验证模块idc，是否存在get这个属性
+2016-05-29 12:46:10,896 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:46:10,904 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:46:10,904 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：raid
+2016-05-29 12:46:10,905 - app - __init__.py- DEBUG - 加载 raid 模块
+2016-05-29 12:46:10,914 - app - __init__.py- DEBUG - 加载 raid 模块成功
+2016-05-29 12:46:10,914 - app - __init__.py- DEBUG - 验证模块raid，是否存在get这个属性
+2016-05-29 12:46:10,915 - app - __init__.py- DEBUG - 获取可以执行的函数
+2016-05-29 12:46:46,335 - app - __init__.py- DEBUG - 自动加载模块的目录为：/data/opsdev2/reboot-website/app/modules
+2016-05-29 12:46:46,335 - app - __init__.py- DEBUG - 验证模块是否可用，模块名为：product
+2016-05-29 12:46:46,336 - app - __init__.py- DEBUG - 加载 product 模块
+2016-05-29 12:46:46,344 - app - __init__.py- DEBUG - 加载 product 模块成功
+2016-05-29 12:46:46,347 - app - __init__.py- DEBUG - 验证模块product，是否存在get这个属性
+2016-05-29 12:46:46,347 - app - __init__.py- DEBUG - 获取可以执行的函数

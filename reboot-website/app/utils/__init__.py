@@ -2,6 +2,7 @@
 # coding:utf-8
 from flask import current_app
 from app.base import AutoLoad
+from flask import  render_template, request
 
 def api_action(method="", params={}):
     try:
@@ -31,4 +32,10 @@ def api_action(method="", params={}):
     return False
 
 
+def jump(ret,success_url="/", error_url="/"):
+
+    if ret:
+        return render_template("public/success.html", next_url=success_url)
+    else:
+        return render_template("public/error.html", next_url=error_url)
 

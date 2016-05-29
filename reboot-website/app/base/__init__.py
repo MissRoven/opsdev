@@ -67,6 +67,7 @@ class AutoLoad():
         #列出模块目录下的所有文件
         for file_name in os.listdir(self.modules_dir):
             #遍历模块目录下的所有文件
+
             if file_name.endswith(".py"):
                 #如果文件名是以.py结尾
                 module_name  = file_name.rstrip(".py")   #从文件名中取出模块名
@@ -75,6 +76,7 @@ class AutoLoad():
                 #当前遍历的这个py文件，不是我们想要导入的py文件
                     continue
                 fp, pathname, desc = imp.find_module(module_name, [self.modules_dir])
+                print fp
                 if not fp:
                     continue
                 try:
@@ -87,7 +89,7 @@ class AutoLoad():
                     fp.close()
                     return ret
                 break
-            return ret
+        return ret
 
 class Response():
     def __init__(self):
@@ -185,7 +187,8 @@ class JsonRpc():
         Returns:  True/False
         """
         b_list = ["user.login", "api.info", "reboot.test", "idc.create"]
-        if "{}.{}".format(module, func) in b_list:
+        #if "{}.{}".format(module, func) in b_list:
+        if True:
             return False
         return False
     def callMethod(self, module, func, params, auth):
