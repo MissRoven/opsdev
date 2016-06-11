@@ -2,21 +2,21 @@
 # coding:utf-8
 
 from flask import current_app
-from app.models import Raid,db
+from app.models import RaidType,db
 
 def create(**kwargs):
     # 1  获取用户传入参数
     print kwargs
     # 2  验证参数的合法性
     for field in kwargs.keys():
-        if not hasattr(Raid,field):
+        if not hasattr(RaidType,field):
             current_app.logger.warning("参数错误，{},不再idc这张表中".format(field))
             raise Exception("params error: {}".format(field))
         if not kwargs.get(field,None):
             current_app.logger.warning("参数错误，{},不能为空".format(field))
             raise Exception("{} 不能为空".format(field))
     # 3  插入到数据库
-    idc = Raid(**kwargs)
+    idc = RaidType(**kwargs)
     db.session.add(idc)
 
     try:
@@ -40,7 +40,7 @@ def get(**kwargs):
         current_app.logger.warning("output必须为list")
         raise Exception("output必须为list")
     for field in output:
-        if not hasattr(Raid, field):
+        if not hasattr(RaidType, field):
             current_app.logger.warning("{}这个输出的字段不存在".format(field))
             raise Exception("{}这个输出的字段不存在".format(field))
 
@@ -53,7 +53,7 @@ def get(**kwargs):
     if tmp_order_by[1].lower() not in order_by_list:
         current_app.logger.warning("排序参数不正确，值可以为：{}".format(order_by_list))
         raise Exception("排序参数不正确，值可以为：{}".format(order_by_list))
-    if not hasattr(Raid, tmp_order_by[0].lower()):
+    if not hasattr(RaidType, tmp_order_by[0].lower()):
         current_app.logger.warning("排序字段不在表中")
         raise Exception("排序字段不在表中")
     # 5. 验证limit
@@ -63,7 +63,7 @@ def get(**kwargs):
 
     #查询
 
-    data = db.session.query(Raid).filter_by(**where).order_by(getattr(getattr(Raid,tmp_order_by[0]), tmp_order_by[1])()).limit(limit).all()
+    data = db.session.query(RaidType).filter_by(**where).order_by(getattr(getattr(RaidType,tmp_order_by[0]), tmp_order_by[1])()).limit(limit).all()
     db.session.close()
     ret = []
     for obj in data:
@@ -89,7 +89,7 @@ def update(**kwargs):
         raise Exception("没有需要更新的")
 
     for field in data.keys():
-        if not hasattr(Raid, field):
+        if not hasattr(RaidType, field):
             raise Exception("需要更新的{}这个字段不存在".format(field))
 
     if not where:
@@ -101,7 +101,7 @@ def update(**kwargs):
             raise Exception("id的值为大于0的整数")
     else:
             raise Exception("条件中的id必须为数字")
-    ret = db.session.query(Raid).filter_by(**where).update(data)
+    ret = db.session.query(RaidType).filter_by(**where).update(data)
     try:
         db.session.commit()
     except Exception, e:
@@ -121,7 +121,7 @@ def delete(**kwargs):
             raise Exception("id的值为大于0的整数")
     else:
         raise Exception("条件中的id必须为数字")
-    ret = db.session.query(Raid).filter_by(**where).delete()
+    ret = db.session.query(RaidType).filter_by(**where).delete()
     try:
         db.session.commit()
     except Exception, e:

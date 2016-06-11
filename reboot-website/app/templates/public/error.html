@@ -3,10 +3,14 @@
 
 <script>
     var next_url = "{{ next_url }}";
+    if(next_url == ""){
+        next_url = "/"
+    }
+    var text = "{{ next_url }}";
     $(function(){
         swal({
                 title: "操作失败",
-                text: "",
+                text: text,
                 type: "error"
             },
             function(){

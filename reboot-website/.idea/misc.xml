@@ -11,4 +11,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 2.7.11 Vagrant VM at D:/dev/devops2/mydev (/env/bin/python)" project-jdk-type="Python SDK" />
+  <component name="PythonCompatibilityInspectionAdvertiser">
+    <option name="version" value="1" />
+  </component>
 </project>

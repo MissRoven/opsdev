@@ -3,7 +3,7 @@
 
 from __future__ import unicode_literals
 import json
-from flask import  request,current_app
+from flask import  request,current_app, render_template, redirect
 from . import main
 
 from app.base import JsonRpc
@@ -13,7 +13,11 @@ from app.base import JsonRpc
 @main.route('/', methods=['GET','POST'])
 def index():
     current_app.logger.debug("首页访问日志")
-    return 'index'
+    return redirect("/dashboard/")
+
+@main.route("/dashboard/", methods=['GET'])
+def dashboard():
+    return render_template("public/dashboard.html")
 
 @main.route('/api', methods=['GET','POST'])
 def api():

@@ -16,7 +16,7 @@ class Config:
 
 class DevelopmentConfig(Config):
     DEBUG = True
-    SQLALCHEMY_ECHO = True
+    SQLALCHEMY_ECHO = True     # 每次执行数据库操作时都终端输出
     SQLALCHEMY_DATABASE_URI = "mysql://root:123456@127.0.0.1/reboot"
     @classmethod
     def init_app(cls, app):

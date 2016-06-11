@@ -3,6 +3,9 @@
 
 <script>
     var next_url = "{{ next_url }}";
+    if(next_url == ""){
+        next_url = "/"
+    }
     $(function(){
         swal({
                 title: "操作成功",

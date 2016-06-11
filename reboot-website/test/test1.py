@@ -36,7 +36,7 @@ def test_get():
         "id": 0,
         "auth": None,
         "params": {
-
+            "output": ["id"]
         }
     }
     r = requests.post(url, headers=header, data=json.dumps(data))
@@ -64,4 +64,4 @@ def test_update():
     print r.content
 
 if __name__ == "__main__":
-    test_update()
+    test_get()
