@@ -4,8 +4,10 @@
 from __future__ import unicode_literals
 from flask import  render_template, request
 from . import  main
+from app.models import Zbhost,Server,db
 import app.utils
 import json
+from app.base.zabbix import Zabbix,rsync_server_to_zbhost,rsync_zabbix_to_zbhost
 
 """
 IDC 列表页面
@@ -373,3 +375,45 @@ def resources_server_reporting():
         app.utils.api_action("server.create", params)
 
     return ""
+
+"""
+ajax 获取不再zabbix里的主机
+"""
+@main.route("/resource/monitor/ajax/get_sync_zabbix_hosts", methods=["POST"])
+def get_sync_zabbix_hosts():
+
+    #1.取出在zabbix里的所有主机
+    zabbix_hosts = db.session.query(Zbhost).all()
+    #2 组合条件IP
+    host_ips = [zb.ip for zb in zabbix_hosts]
+    #3取出不在zabbix里的所有主机（条件： ip（在zabbix里的所有主机ip））
+    servers = db.session.query(Server).filter(~Server.inner_ip.in_(host_ips)).all()
+    return json.dumps([{"hostname": s.hostname,"id":s.id} for s in servers])
+
+"""
+   ajax 操作，同步主机到zabbix
+"""
+@main.route("/resource/monitor/ajax/sync_host_to_zabbix", methods=["POST"])
+def resource_sync_hosts_to_zabbix():
+    if  request.method == "POST":
+        params = request.form.to_dict()
+        hostids = params['hostids'].split(',')
+        servers = db.session.query(Server).filter(Server.id.in_(hostids)).all()
+        data = {}
+        zb = Zabbix()
+        flag = True
+        for server in servers:
+            ret = zb.create_zb_host(server.hostname, server.inner_ip, params['groupid'])
+            if isinstance(ret, dict) and ret.get("hostids", None):
+                data[server.hostname] = True
+            else:
+                flag = False
+                data[server.hostname] = ret
+
+        rsync_zabbix_to_zbhost()
+        rsync_server_to_zbhost()
+        if flag:
+            return "1"
+        else:
+            return json.dumps(data)
+    return "500"

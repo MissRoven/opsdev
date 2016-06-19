@@ -3,6 +3,7 @@
 from flask import current_app
 from app.base import AutoLoad
 from flask import  render_template, request
+
 import requests
 
 def api_action(method="", params={}):
@@ -122,7 +123,6 @@ def check_update_params(obj, data, where):
         raise Exception("条件中的id必须为数字")
 
 
-
 def jump(ret,success_url="/", error_url="/"):
     success = "public/success.html"
     error = "public/error.html"
@@ -130,4 +130,39 @@ def jump(ret,success_url="/", error_url="/"):
         return render_template(success, next_url=success_url)
     else:
         return render_template(error, next_url=error_url)
+
+class Treeview(object):
+    def __init__(self):
+        self.product_info = api_action("product.get", {"output": ["id", "module_letter", "pid"]})
+        self.idc_info = api_action("idc.get", {"output": ["id", "name"]})
+        self.data = []
+
+    def get_child_node(self):
+        ret = []
+        for p in filter(lambda x: True if x.get("pid", None) == 0 else False, self.product_info):
+            node = {}
+            node['text'] = p.get("module_letter", None)
+            node['id'] = p.get("id", None)
+            node["type"] = "service"
+            node["nodes"] = self.get_grant_node(p.get("id", None))
+            ret.append(node)
+        return ret
+
+    def get_grant_node(self, pid):
+        ret = []
+        for p in filter(lambda x: True if x.get("pid", None) == pid else False, self.product_info):
+            node = {}
+            node['text'] = p.get("module_letter", None)
+            node['id'] = p.get("id", None)
+            node["type"] = "product"
+            node["pid"] = pid
+            ret.append(node)
+        return ret
+
+    def get(self, idc=False):
+        child = self.get_child_node()
+        if not idc:
+            return child
+
+
 

@@ -127,8 +127,13 @@ class Server(db.Model):
     power               = db.Column(db.String(30), nullable=True, default='')
     host                = db.Column(db.Integer, default=0)
 
-
-
+class Zbhost(db.Model):
+    __tablename__       = "zbhost"
+    id                  = db.Column(db.Integer, primary_key=True)
+    cmdb_hostid         = db.Column(db.Integer, index=True, unique=True)
+    hostid              = db.Column(db.Integer, index=True, unique=True)
+    host                = db.Column(db.String(30))
+    ip                  = db.Column(db.String(30))
 
 
 

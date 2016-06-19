@@ -18,6 +18,9 @@ class DevelopmentConfig(Config):
     DEBUG = True
     SQLALCHEMY_ECHO = True     # 每次执行数据库操作时都终端输出
     SQLALCHEMY_DATABASE_URI = "mysql://root:123456@127.0.0.1/reboot"
+    ZABBIX_API_URL = "http://192.168.99.14/zabbix/"
+    ZABBIX_API_USER = "admin"
+    ZABBIX_API_PASS = "zabbix"
     @classmethod
     def init_app(cls, app):
         Config.init_app(app)
